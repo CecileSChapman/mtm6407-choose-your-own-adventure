@@ -15,4 +15,4 @@ Lost in this winter wonderland, the confusion grows with each step, the forest n
 ## What will you do next?
 
 Choice 1: [Forge Ahead](forge-ahead.md)
-Choice 2: [Retrace your steps](retrace.md)
+
