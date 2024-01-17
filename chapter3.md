@@ -1,0 +1,3 @@
+Frosty Crossroads
+
+Guided by the group, you reach a frost-kissed crossroads. Moonlight reveals two paths: one leading into a shadowy thicket, the other bordered by ancient, ice-covered stones. The seasoned guide turns to you, eyes glinting with anticipation. Time presses as you must decide: venture into the mysterious thicket or follow the cryptic stone path? Your choice holds the next chapter of your winter expedition.
