@@ -3,6 +3,6 @@ Choose your own adventure assignment for Web Dev IV
 
 Group members:
 - Cecile
-- Maisie
+- (Orranis)Maisie
 - Lina
 - Nathan
