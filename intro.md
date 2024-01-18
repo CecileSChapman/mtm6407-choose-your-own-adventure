@@ -1,6 +1,6 @@
 # Lost in the Frost
 
-By: Cecile, Maisie, Lina, & Nathan
+By: Cecile, (Orranis)Maisie, Lina, & Nathan
 
 ## Chapter 1: The Fading Trail
 
@@ -11,4 +11,8 @@ However, you notice the sky getting darker as the sunlight starts to fade. You t
 
 Lost in this winter wonderland, the confusion grows with each step, the forest now a maze of unfamiliar grounds. Standing at the crossroads of uncertainty, you can't help but feel a chill down your spine. The question echoes in the frigid air: What will you do next?
 
+
+## What will you do next?
+
+Choice 1: [Forge Ahead](forge-ahead.md)
 
