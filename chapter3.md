@@ -1,3 +1,3 @@
-Frosty Crossroads
+Choosing to Return
 
-Guided by the group, you reach a frost-kissed crossroads. Moonlight reveals two paths: one leading into a shadowy thicket, the other bordered by ancient, ice-covered stones. The seasoned guide turns to you, eyes glinting with anticipation. Time presses as you must decide: venture into the mysterious thicket or follow the cryptic stone path? Your choice holds the next chapter of your winter expedition.
+Attempting to backtrack through the fading trail in the growing darkness proves to be more challenging than anticipated. The once-familiar features of the landscape become obscured, and the cold, eerie air amplifies your sense of disorientation. The distant calls of nocturnal creatures echo, creating an unsettling symphony in the obscurity.
