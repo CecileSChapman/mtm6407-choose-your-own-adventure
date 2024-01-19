@@ -5,3 +5,4 @@ You are already on the hiking trail in the Canadian cold mountains, and going ba
 If your friends are not around, you will gather some wood and stones to make a campfire to warm up. You build up a tent so that you can bring your sleeping kit to sleep and keep you warm during nighttime. You gather poles and ropes to attach with the tent to the ground before the cold wind blows it away. Look to the difference that the cozy, and warm environment in the camp will give you from the chilly, windy and wintery outside mountains should continue to give you the impetuous to move ahead until you reach your camp site.  Also the warm food, that you will eat in your camp should be the encouragement that keeps you going till you get to your campsite. 
 
 Nathan Morakinyo
+
