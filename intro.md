@@ -13,6 +13,6 @@ Lost in this winter wonderland, the confusion grows with each step, the forest n
 
 Choice 1: [Forge Ahead](forge-ahead.md)
 
-Choice 2: [Return](chapter3.md)
+Choice 2: [Return](choosing-return.md)
 
 Choice 3: [Stand still](standstill.md)
