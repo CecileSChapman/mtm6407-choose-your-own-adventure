@@ -1,4 +1,4 @@
-## Move Ahead
+## Continue to campsite
 
 You are already on the hiking trail in the Canadian cold mountains, and going back home in the dark cold weather may pose to more dangerous and longer than moving on to reach your campsite. You may just move ahead, brave the chilly weather and hope to make it back to your place of refuge - your winter cabin. All sorts of hopes flying through you head - Finding sources you meet on the way to help you survive, hoping to have sufficient strength and motivation despite the darkening surroundings, to carry you all the way to the winter camp, and trusting that some of your campmates will have reached toe camp and start of a campfire to warm you up immediately when you get to the camp. At the least, you hope to find some items to set up a campfire if your freinds are not around.
 
