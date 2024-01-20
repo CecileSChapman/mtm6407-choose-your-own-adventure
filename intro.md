@@ -16,3 +16,5 @@ Choice 1: [Forge Ahead](forge-ahead.md)
 Choice 2: [Return](choosing-return.md)
 
 Choice 3: [Stand still](standstill.md)
+
+Choice 4: [Return to Campsite](continue-to-campsite.md)
